@@ -1,4 +1,4 @@
-package sg.edu.np.WhackAMole;
+package com.example.whack_a_mole;
 
 import org.junit.Test;
 
